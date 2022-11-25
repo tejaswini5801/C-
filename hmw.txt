@@ -1,0 +1,5 @@
+program to read text from file and append in another file
+program to write text from a file
+to delete a text file
+program to read txt from a file
+
